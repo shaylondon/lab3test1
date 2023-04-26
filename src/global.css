@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-nunito-sans: "Nunito Sans";
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-109xl: 128px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray: #464646;
+  --color-mediumspringgreen: #4feca1;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+}
